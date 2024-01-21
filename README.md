@@ -1,2 +1,2 @@
 # netflix-clone
-Netflix clone
+BookMyShow clone
